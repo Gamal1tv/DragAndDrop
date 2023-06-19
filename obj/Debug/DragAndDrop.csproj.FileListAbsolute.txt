@@ -1,0 +1,11 @@
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\bin\Debug\DragAndDrop.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\bin\Debug\DragAndDrop.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\DragAndDrop\obj\Debug\DragAndDrop.pdb
